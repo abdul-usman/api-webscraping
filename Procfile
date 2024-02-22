@@ -1,2 +1,2 @@
-web: gunicorn your_app_module:app
+web: gunicorn octopus-app:app
 
